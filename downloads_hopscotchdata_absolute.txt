@@ -1,0 +1,8 @@
+https://c.gethopscotch.com/favicon.ico > favicon.ico;
+
+https://code.jquery.com/jquery-3.6.0.min.js > jquery-3.6.0.min.js;
+https://code.jquery.com/ui/1.13.1/jquery-ui.min.js > jquery-ui.min.js;
+https://cdn.jsdelivr.net/npm/underscore@1.13.2/underscore-umd-min.js > underscore-umd-min.js;
+
+https://d3nbkco6xo1vz0.cloudfront.net/production/pixi/4.8.6/pixi.min.js > pixi.min.js;
+https://d3nbkco6xo1vz0.cloudfront.net/production/versions/1.0.16/webplayer.min.js > webplayer.min.js;

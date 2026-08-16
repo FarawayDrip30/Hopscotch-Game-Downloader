@@ -1,0 +1,27 @@
+/fonts/Avenir_Roman.woff2 > HopscotchData/fonts/Avenir_Roman.woff2;
+/fonts/Avenir_Heavy.woff2 > HopscotchData/fonts/Avenir_Heavy.woff2;
+/fonts/hopscotch-glyphs.ttf?ayc9il > HopscotchData/fonts/hopscotch-glyphs.ttf;
+/stylesheets/hs-glyphs.css > HopscotchData/stylesheets/hs-glyphs.css;
+/style.css?v=ks9277yq > HopscotchData/style.css;
+/stylesheets/embed-container.css > HopscotchData/stylesheets/embed-container.css;
+/stylesheets/player.css > HopscotchData/stylesheets/player.css;
+/main.js > HopscotchData/main.js;
+/page-scripts/embed-preload.js > HopscotchData/page-scripts/embed-preload.js;
+/noscript.css > HopscotchData/noscript.css;
+/player/speaker_mute.svg > HopscotchData/player/speaker_mute.svg;
+/player/speaker.svg > HopscotchData/player/speaker.svg;
+/player/fullscreen_exit.svg > HopscotchData/player/fullscreen_exit.svg;
+/player/fullscreen_button.svg > HopscotchData/player/fullscreen_button.svg;
+/player/speaker.svg > HopscotchData/player/speaker.svg;
+/player/refresh_button.svg > HopscotchData/player/refresh_button.svg;
+/player/hopscotch_button.svg > HopscotchData/player/hopscotch_button.svg;
+/player/svg.js > HopscotchData/player/svg.js;
+/page-scripts/project.js > HopscotchData/page-scripts/project.js;
+
+https://c.gethopscotch.com/favicon.ico > HopscotchData/favicon.ico;
+https://cdn.amplitude.com/libs/amplitude-8.1.0-min.gz.js > HopscotchData/amplitude-8.1.0-min.gz.js;
+https://code.jquery.com/jquery-3.6.0.min.js > HopscotchData/jquery-3.6.0.min.js;
+https://code.jquery.com/ui/1.13.1/jquery-ui.min.js > HopscotchData/jquery-ui.min.js;
+https://cdn.jsdelivr.net/npm/underscore@1.13.2/underscore-umd-min.js > HopscotchData/underscore-umd-min.js;
+https://d3nbkco6xo1vz0.cloudfront.net/production/pixi/4.8.6/pixi.min.js > HopscotchData/pixi.min.js;
+https://d3nbkco6xo1vz0.cloudfront.net/production/versions/1.0.16/webplayer.min.js > HopscotchData/webplayer.min.js;

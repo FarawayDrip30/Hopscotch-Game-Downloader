@@ -1,0 +1,18 @@
+fonts/Avenir_Roman.woff2;
+fonts/Avenir_Heavy.woff2;
+fonts/hopscotch-glyphs.ttf?ayc9il > fonts/hopscotch-glyphs.ttf;
+stylesheets/hs-glyphs.css;
+style.css?v=ks9277yq > style.css;
+stylesheets/embed-container.css;
+stylesheets/player.css;
+page-scripts/embed-preload.js;
+noscript.css;
+player/speaker_mute.svg;
+player/speaker.svg;
+player/fullscreen_exit.svg;
+player/fullscreen_button.svg;
+player/speaker.svg;
+player/refresh_button.svg;
+player/hopscotch_button.svg;
+player/svg.js;
+page-scripts/project.js;
