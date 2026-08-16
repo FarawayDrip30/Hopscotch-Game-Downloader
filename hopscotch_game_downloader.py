@@ -2,8 +2,20 @@ import pycurl
 from io import BytesIO
 import os
 
+program_version = "v0.1.0"
+
 asset_root = "https://explore.gethopscotch.com/"
 game_root = "https://explore.gethopscotch.com/e/"
+
+start_text = """/================================
+Hopscotch Game Downloader""" + "\n" + program_version + """
+Created by FarawayDrip30
+https://farawaydrip30.co.uk/"""
+option_text = """/--------------------------------
+Select Option:
+1. Download Game
+2. Download HopscotchData
+3. Exit"""
 
 def download_read_file(url):
     # Get HTML data
@@ -94,8 +106,8 @@ def save_string(file_name, _string, _encoding):
     output_file.close()
 
 def download_game():
-    game_code = input("Input Game Code: ")
-    game_name = input("Enter the Name of Your Game: ")
+    game_code = input("Input Game Code: ").strip()
+    game_name = input("Enter the Name of Your Game: ").strip()
 
     game_index = game_root + game_code
 
@@ -147,15 +159,7 @@ def download_hopscotch_data():
 
     print("Successfully Downloaded HopscotchData!")
 
-start_text = """/================================
-Hopscotch Game Downloader
-Created by FarawayDrip30
-https://farawaydrip30.co.uk/"""
-option_text = """/--------------------------------
-Select Option:
-1. Download Game
-2. Download HopscotchData
-3. Exit"""
+
 if __name__ == "__main__":
     print(start_text)
     while True:
